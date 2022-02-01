@@ -1,0 +1,110 @@
+{
+	"blog": {
+		"blogger_id": "5746193296859758469",
+		"api_key": "AIzaSyBDdq6f4rzA_Uh4_bBI6QScmGxH9TXygOY"
+	},
+	"app": {
+		"status": "1",
+		"more_apps_url": "https://play.google.com/store/apps/developer?id=",
+		"redirect_url": "",
+		"privacy_policy_url": "https://sites.google.com/view/",
+		"publisher_info_url": "https://sites.google.com/view/",
+		"terms_conditions_url": "https://sites.google.com/view/",
+		"display_page_menu": "true",
+		"display_view_on_site_menu": "true",
+		"custom_label_list": "true",
+		"show_post_header": "true",
+		"show_post_list_short_description": "true",
+		"show_post_date": "true",
+		"show_related_post": "true",
+		"open_link_inside_app": "true"
+	},
+	"notification": {
+		"fcm_notification_topic": "satyamsamachar_news_app_topic",
+		"onesignal_app_id": "c04c3979-f159-4165-8d0a-d2b1315a7640"
+	},
+	"ads": {
+		"ad_status": "1",
+		"ad_type": "admob",
+		"backup_ads": "none",
+		"admob_publisher_id": "pub-3940256099942544",
+		"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+		"admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+		"admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+		"admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+		"admob_app_open_ad_unit_id": "ca-app-pub-3940256099942544/3419835294",
+		"startapp_app_id": "0",
+		"unity_game_id": "4089993",
+		"unity_banner_placement_id": "banner",
+		"unity_interstitial_placement_id": "video",
+		"applovin_banner_ad_unit_id": "493559dccad317bd",
+		"applovin_interstitial_ad_unit_id": "161f46f466210b6d",
+		"applovin_native_ad_manual_unit_id": "426a0b1bf0f6a092",
+		"mopub_banner_ad_unit_id": "b195f8dd8ded45fe847ad89ed1d016da",
+		"mopub_interstitial_ad_unit_id": "24534e1901884e398f1253216226017e",
+		"interstitial_ad_interval": 3,
+		"native_ad_index": 4
+	},
+	"labels": [
+		{
+			"term": "Business",
+			"image": "https://i.imgur.com/DqQrnm0.png"
+		},
+		{
+			"term": "Tourism",
+			"image": "https://i.imgur.com/r6Zd7qO.png"
+		},
+		{
+			"term": "Politics",
+			"image": "https://i.imgur.com/28DQxFt.png"
+		},
+		{
+			"term": "Food",
+			"image": "https://i.imgur.com/2ngb45h.png"
+		},
+		{
+			"term": "News",
+			"image": "https://i.imgur.com/nyrbj9W.png"
+		},
+		{
+			"term": "World",
+			"image": "https://i.imgur.com/R0bZ4h4.png"
+		},
+		{
+			"term": "Sports",
+			"image": "https://i.imgur.com/83Bt9Mb.png"
+		},
+		{
+			"term": "Football",
+			"image": "https://i.imgur.com/NqT55yX.png"
+		},
+		{
+			"term": "Technology",
+			"image": "https://i.imgur.com/f1EHhy6.png"
+		},
+		{
+			"term": "Android",
+			"image": "https://i.imgur.com/qw9drQQ.png"
+		},
+		{
+			"term": "Health",
+			"image": "https://i.imgur.com/ljK9HqE.png"
+		},
+		{
+			"term": "Finance",
+			"image": "https://i.imgur.com/hGOweXN.png"
+		},
+		{
+			"term": "Entertainment",
+			"image": "https://i.imgur.com/I7O2nLm.png"
+		},
+		{
+			"term": "Gadget",
+			"image": "https://i.imgur.com/ddCegPU.png"
+		},
+		{
+			"term": "Travel",
+			"image": "https://i.imgur.com/GHWmjZL.png"
+		}
+	]
+}
