@@ -5,7 +5,7 @@
 	},
 	"app": {
 		"status": "1",
-		"show_book_detail_view": "false",
+		"show_book_detail_view": "true",
 		"show_related_book": "false",
 		"allow_save_book_in_storage": "true",
 		"swipe_horizontal_reading_book": "false",
