@@ -18,8 +18,8 @@
 		"redirect_url": ""
 	},
 	"notification": {
-		"fcm_notification_topic": "rukmanipartthreee_ebook_app_topic",
-		"onesignal_app_id": "7be1f571-d1c5-4154-af02-48aceb59087b"
+		"fcm_notification_topic": "rukmanirailwaysets_ebook_app_topic",
+		"onesignal_app_id": "81692bf8-a339-4a14-b8b2-a36150763b3e"
 	},
 	"ads": {
 		"ad_status": "0",
