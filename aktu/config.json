@@ -22,7 +22,7 @@
 		"onesignal_app_id": "681fb7d9-7bac-4dfe-ab22-6326dacb968b"
 	},
 	"ads": {
-		"ad_status": "0"
+		"ad_status": "0",
 		"ad_type": "admob",
 		"backup_ads": "none",
 		"admob_publisher_id": "pub-8936249544471578",
