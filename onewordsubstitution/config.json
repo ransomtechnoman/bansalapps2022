@@ -12,10 +12,148 @@
 	},	
 	"menus": [
 		{
-			"name": "Home",
-			"type": "url",
-			"icon": "https://www.solodroid.net/demo/webdroid/images/ic_home.png",
-			"url": "https://www.solodroid.net/demo/webdroid/pages/home.html"
+			"name": "Start with A",
+			"type": "assets",
+			"icon": "",
+			"url": "page2.html"
+		},
+		{
+			"name": "Start with B",
+			"type": "assets",
+			"icon": "",
+			"url": "page3.html"
+		},
+		{
+			"name": "Start with C",
+			"type": "assets",
+			"icon": "",
+			"url": "page4.html"
+		},
+		{
+			"name": "Start with D",
+			"type": "assets",
+			"icon": "",
+			"url": "page5.html"
+		},
+		{
+			"name": "Start with E",
+			"type": "assets",
+			"icon": "",
+			"url": "page6.html"
+		},
+		{
+			"name": "Start with F",
+			"type": "assets",
+			"icon": "",
+			"url": "page7.html"
+		},
+		{
+			"name": "Start with G",
+			"type": "assets",
+			"icon": "",
+			"url": "page15.html"
+		},
+		{
+			"name": "Start with H",
+			"type": "assets",
+			"icon": "",
+			"url": "page14.html"
+		},
+		{
+			"name": "Start with I",
+			"type": "assets",
+			"icon": "",
+			"url": "page8.html"
+		},
+		{
+			"name": "Start with J",
+			"type": "assets",
+			"icon": "",
+			"url": "page16.html"
+		},
+		{
+			"name": "Start with K",
+			"type": "assets",
+			"icon": "",
+			"url": "page17.html"
+		},
+		{
+			"name": "Start with L",
+			"type": "assets",
+			"icon": "",
+			"url": "page18.html"
+		},
+		{
+			"name": "Start with M",
+			"type": "assets",
+			"icon": "",
+			"url": "page9.html"
+		},
+		{
+			"name": "Start with N",
+			"type": "assets",
+			"icon": "",
+			"url": "page19.html"
+		},
+		{
+			"name": "Start with O",
+			"type": "assets",
+			"icon": "",
+			"url": "page10.html"
+		},
+		{
+			"name": "Start with P",
+			"type": "assets",
+			"icon": "",
+			"url": "page11.html"
+		},
+		{
+			"name": "Start with Q",
+			"type": "assets",
+			"icon": "",
+			"url": "page20.html"
+		},
+		{
+			"name": "Start with R",
+			"type": "assets",
+			"icon": "",
+			"url": "page21.html"
+		},
+		{
+			"name": "Start with S",
+			"type": "assets",
+			"icon": "",
+			"url": "page12.html"
+		},
+		{
+			"name": "Start with T",
+			"type": "assets",
+			"icon": "",
+			"url": "page22.html"
+		},
+		{
+			"name": "Start with U",
+			"type": "assets",
+			"icon": "",
+			"url": "page23.html"
+		},
+		{
+			"name": "Start with V",
+			"type": "assets",
+			"icon": "",
+			"url": "page24.html"
+		},
+		{
+			"name": "Start with W",
+			"type": "assets",
+			"icon": "",
+			"url": "page25.html"
+		},
+		{
+			"name": "Start with Z",
+			"type": "assets",
+			"icon": "",
+			"url": "page13.html"
 		},
 		{
 			"name": "Portfolio",
