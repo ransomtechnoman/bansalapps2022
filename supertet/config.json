@@ -1,0 +1,67 @@
+{
+	"blog": {
+		"blogger_id": "879239074883709718",
+		"api_key": "AIzaSyCec2XuXHtf4MP9Zn8NfA9Uf5fex5T59NA"
+	},
+	"app": {
+		"status": "1",
+		"show_book_detail_view": "false",
+		"show_related_book": "false",
+		"allow_save_book_in_storage": "true",
+		"swipe_horizontal_reading_book": "false",
+		"show_scroll_handle_reading_book": "true",
+		"custom_label_list": "false"
+	},
+	"url": {
+		"more_apps_url": "https://play.google.com/store/apps/developer?id=Fikra+India+Developers",
+		"privacy_policy_url": "https://sites.google.com/view/bansalprivacypolicyapp/",
+		"redirect_url": ""
+	},
+	"notification": {
+		"fcm_notification_topic": "com.akbedu.aktunotes_ebook_app_topic",
+		"onesignal_app_id": "681fb7d9-7bac-4dfe-ab22-6326dacb968b"
+	},
+	"ads": {
+		"ad_status": "0",
+		"ad_type": "admob",
+		"backup_ads": "none",
+		"admob_publisher_id": "pub-8936249544471578",
+		"admob_app_id": "ca-app-pub-8936249544471578~8046164335",
+		"admob_banner_unit_id": "ca-app-pub-8936249544471578/5420000990",
+		"admob_interstitial_unit_id": "ca-app-pub-8936249544471578/5036857614",
+		"admob_native_unit_id": "ca-app-pub-8936249544471578/5966795904",
+		"admob_app_open_ad_unit_id": "ca-app-pub-8936249544471578/3340632560",
+		"startapp_app_id": "0",
+		"unity_game_id": "4089993",
+		"unity_banner_placement_id": "banner",
+		"unity_interstitial_placement_id": "video",
+		"applovin_banner_ad_unit_id": "0",
+		"applovin_interstitial_ad_unit_id": "0",
+		"mopub_banner_ad_unit_id": "b195f8dd8ded45fe847ad89ed1d016da",
+		"mopub_interstitial_ad_unit_id": "24534e1901884e398f1253216226017e",
+		"interstitial_ad_interval": 23
+	},
+	"labels": [
+		{
+			"term": "RRB NTPC VOLUME 3",
+			"image": "https://i.ibb.co/sPLJxY0/rtrtr.png"
+		},
+		{
+			"term": "RRB NTPC MATHS VOLUME 4",
+			"image": "https://i.ibb.co/vvMcG2n/ntpcff.jpg"
+		},
+		{
+			"term": "Railway Group D Volume-1",
+			"image": "https://i.ibb.co/N6XVnVr/rsets1.png"
+		},
+		{
+			"term": "Railway Group D Volume-2",
+			"image": "https://i.ibb.co/3vjb2y2/rsets2.png"
+		},
+		{
+			"term": "RRB Chemistry",
+			"image": "https://i.ibb.co/4WkFRfQ/rrbcc.jpg"
+		}
+		
+	]
+}
