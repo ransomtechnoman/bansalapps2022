@@ -1,6 +1,6 @@
 {
 	"blog": {
-		"blogger_id": "879239074883709718",
+		"blogger_id": "1528250577363487809",
 		"api_key": "AIzaSyCec2XuXHtf4MP9Zn8NfA9Uf5fex5T59NA"
 	},
 	"app": {
@@ -18,19 +18,19 @@
 		"redirect_url": ""
 	},
 	"notification": {
-		"fcm_notification_topic": "com.akbedu.aktunotes_ebook_app_topic",
-		"onesignal_app_id": "681fb7d9-7bac-4dfe-ab22-6326dacb968b"
+		"fcm_notification_topic": "com.akbedu.supertet_ebook_app_topic",
+		"onesignal_app_id": "b28e1e36-cac9-4cfb-a147-1366594b8bfe"
 	},
 	"ads": {
 		"ad_status": "0",
 		"ad_type": "admob",
 		"backup_ads": "none",
 		"admob_publisher_id": "pub-8936249544471578",
-		"admob_app_id": "ca-app-pub-8936249544471578~8046164335",
-		"admob_banner_unit_id": "ca-app-pub-8936249544471578/5420000990",
-		"admob_interstitial_unit_id": "ca-app-pub-8936249544471578/5036857614",
-		"admob_native_unit_id": "ca-app-pub-8936249544471578/5966795904",
-		"admob_app_open_ad_unit_id": "ca-app-pub-8936249544471578/3340632560",
+		"admob_app_id": "ca-app-pub-8936249544471578~2917488941",
+		"admob_banner_unit_id": "ca-app-pub-8936249544471578/1412835586",
+		"admob_interstitial_unit_id": "ca-app-pub-8936249544471578/8826676778",
+		"admob_native_unit_id": "ca-app-pub-8936249544471578/7513595102",
+		"admob_app_open_ad_unit_id": "ca-app-pub-8936249544471578/8525038846",
 		"startapp_app_id": "0",
 		"unity_game_id": "4089993",
 		"unity_banner_placement_id": "banner",
