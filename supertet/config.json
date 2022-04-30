@@ -5,7 +5,7 @@
 	},
 	"app": {
 		"status": "1",
-		"show_book_detail_view": "false",
+		"show_book_detail_view": "true",
 		"show_related_book": "false",
 		"allow_save_book_in_storage": "true",
 		"swipe_horizontal_reading_book": "false",
@@ -22,7 +22,7 @@
 		"onesignal_app_id": "b28e1e36-cac9-4cfb-a147-1366594b8bfe"
 	},
 	"ads": {
-		"ad_status": "0",
+		"ad_status": "1",
 		"ad_type": "admob",
 		"backup_ads": "none",
 		"admob_publisher_id": "pub-8936249544471578",
