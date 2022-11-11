@@ -16,7 +16,7 @@
 			"name": "Home",
 			"type": "url",
 			"icon": "https://www.solodroid.net/demo/webdroid/images/ic_home.png",
-			"url": "https://t25.c00.myftpupload.com/"
+			"url": "https://t25.c00.myftpupload.com/?login=true"
 		},
 		{
 			"name": "Portfolio",
